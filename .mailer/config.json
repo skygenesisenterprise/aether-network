@@ -1,0 +1,16 @@
+{
+  "server": {
+    "url": "http://localhost:8080",
+    "timeout": 30000
+  },
+  "cli": {
+    "defaultFormat": "table",
+    "confirmDestructive": true,
+    "logLevel": "info"
+  },
+  "output": {
+    "colors": true,
+    "pager": true,
+    "timestamp": false
+  }
+}
