@@ -1,7 +1,7 @@
 {
-  "name": "@aether-mailer/app",
+  "name": "@aether-network/app",
   "version": "0.1.0",
-  "description": "Frontend application for Aether Mailer",
+  "description": "Frontend application for AEM",
   "private": true,
   "type": "module",
   "scripts": {
